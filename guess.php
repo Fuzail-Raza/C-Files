@@ -1,6 +1,6 @@
 <html>
 <body>
-<title>M FUZAIL RAZA 42ba3b64</title>
+<title>M FUZAIL RAZA ( 42ba3b64 )</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
